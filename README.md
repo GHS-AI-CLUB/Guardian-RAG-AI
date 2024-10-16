@@ -1,6 +1,7 @@
 <p align="center">
-    <img src="https://miro.medium.com/v2/resize:fit:793/0*RTW5byy6eH_eSWTP.png" alt="chromadb" width="100" height="75" style="margin-right: 20px;">
-    <img src="https://www.cdnlogo.com/logos/m/59/meta.svg" alt="meta" width="100" height="75" style="margin-left: 20px;">
+    <img src="https://miro.medium.com/v2/resize:fit:793/0*RTW5byy6eH_eSWTP.png" alt="chromadb" width="100" height="75">
+    &nbsp;&nbsp;&nbsp;&nbsp; <!-- This adds space between the images -->
+    <img src="https://www.cdnlogo.com/logos/m/59/meta.svg" alt="meta" width="100" height="75">
 </p>
 
 # Guardian-RAG-AI
